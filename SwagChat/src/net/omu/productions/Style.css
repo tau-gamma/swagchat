@@ -1,0 +1,14 @@
+.sender {
+	-fx-font-family: helvetica,arial,sans-serif;
+    -fx-background-color: white;
+    -fx-padding: 5;
+    -fx-border-color: lightgrey;
+    -fx-margin-bottom: 10;
+}
+.empfaenger {
+    -fx-font-family: helvetica,arial,sans-serif;
+    -fx-background-color: #E0EDFF;
+    -fx-padding: 5;
+    -fx-border-color: lightgrey;
+    -fx-margin-bottom: 10;
+}
